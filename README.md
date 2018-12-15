@@ -1,5 +1,5 @@
 # TFlite-on-Python
-Running inference using .tflite and .lite model on Python, for model trouble-shooting before deployment to mobile platform.
+Running inference using TensorFlow Lite .tflite and .lite model on Python, for model trouble-shooting before deployment to mobile platform.
 
 ## Overview
 The programme creates a TFlite interpreter in the Python environment which supports inteferences to be run to test the accuracy of the 
