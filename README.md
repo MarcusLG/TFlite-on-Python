@@ -15,3 +15,6 @@ The output shall be presented in the form:
 ```
 [[1., 0., 0., 0.]]
 ```
+## Run with Notebook
+Link:
+https://colab.research.google.com/drive/1MgaAoPSdXiQRKpQZMCwpRapTNytwINcX
